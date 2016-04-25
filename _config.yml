@@ -1,6 +1,6 @@
 name: "Now's the Time"
 favicon: null
-layout_spectrum: 0.6444191613700241
+layout_spectrum: 0.85375
 typography_spectrum: 0.7131927201990038
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#090a0e'
-    - '#333d46'
-    - '#dd6660'
-    - '#95a4c5'
-    - '#f9bea1'
+    - '#181619'
+    - '#fefefe'
+    - '#d4d8e1'
+    - '#3a4e45'
+    - '#99989e'
   brandStrength: 0.125
-  lightness: 0.875
+  lightness: 0.6875
   saturation: 0.17200125590898097
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
