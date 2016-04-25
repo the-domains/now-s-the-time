@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Now's the Time]]></title>
+        <description><![CDATA[Now's the Time]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 17:02:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Now's the Time is a jazz quintet that plays a sophisticated blend of original and unique arrangements of jazz classics.]]></title>
+            <description><![CDATA[<article><h1>Now's the Time is a jazz quintet that plays a sophisticated blend of original and unique arrangements of jazz classics.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af227d4f-8e38-443e-9774-e0f7db1c2173.jpg"></article>]]></description>
+            <link>undefinednows-the-time-is-a-jazz-quintet-that-plays-a-sophisticated/index.html</link>
+            <guid isPermaLink="false">449ba139-1c7c-49f8-a140-d9c0e4dced54</guid>
+            <pubDate>Mon, 25 Apr 2016 17:02:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
